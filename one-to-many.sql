@@ -1,3 +1,4 @@
+# drop tables if exist
 drop table if exists article_image;
 drop table if exists article;
 drop procedure if exists denormalize_article_images;
