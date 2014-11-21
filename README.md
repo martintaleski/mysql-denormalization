@@ -1,7 +1,4 @@
-mysql-denormalization
-=====================
-
-# Mysql Denormalization Examples
+## Mysql Denormalization Examples
 
 ### One To Many Example
 
